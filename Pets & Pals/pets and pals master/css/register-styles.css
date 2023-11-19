@@ -1,0 +1,80 @@
+.heading i {
+  font-family: 'Optima', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-size: 90px;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px white;
+  text-align: center;
+}
+
+html, body {
+  font-family: 'Average', serif;
+  background-color: rgb(255, 255, 255)!important;
+}
+
+.hr {
+  border: 3px solid #5a6d20;
+}
+
+.btn-approve {
+  font-weight: bold !important;
+  font-family: 'Numans', sans-serif;
+  color: white !important;
+  background-color: #8DA242 !important;
+
+  margin-bottom: 15px !important;
+}
+
+.btn-approve:hover {
+  color: black !important;
+  border: 2px solid white !important;
+  background-color: #A7BC5B !important;
+}
+
+.app-text {
+  font-family: 'Numans', sans-serif;
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+
+input h4 {
+  color: white;
+}
+
+.col-lg-9 h2 {
+  color: #5a6d20;
+}
+
+.col-lg-9 h4 {
+  font: caption;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+
+h5, h6 {
+  color: rgb(0, 0, 0);
+}
+
+.form-control {
+  margin-bottom: 15px;
+}
+
+.form-check-label h5 {
+  color: rgb(8, 4, 4);
+}
+
+.center-block {
+  color: rgb(0, 0, 0);
+  margin-left: 40px;
+}
+
+.pos-owner-bg {
+  background-color: white;
+}
+
+.footer {
+  background-color: #666666;
+  color: black;
+  font-size: 14px;
+  padding-left: 120px;
+}

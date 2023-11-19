@@ -1,0 +1,265 @@
+body {
+  font-family: 'Numans', sans-serif;
+  background-color:  rgb(246, 244, 242)!important;
+
+}
+
+.w3-center {
+  text-align: center;
+}
+
+.id-search {
+  border: 1px solid #ccc;
+  border-radius: 10px; /* Adjust the value to control the roundness */
+  padding: 15px;
+  margin: 20px 0;
+  display: inline-block;
+}
+
+.id-search label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.id-search input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px; /* Adjust the value to control the roundness */
+}
+
+.id-search .btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px; /* Adjust the value to control the roundness */
+  cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Numans', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 20%;
+  padding: 2px;
+}
+
+.mySlides {
+  display: none;
+}
+
+body .w3-yellow {
+  background-color: #ffffff !important;
+}
+
+.pp {
+  width: 50%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.unlocked {
+  opacity: 0.6;
+}
+
+.badge-row {
+  text-align: center;
+  background-color: #c5c3ac;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.w3-bar-block a {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.w3-quarter .ava-img {
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #000000;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+  margin-bottom: 40px;
+}
+
+.ava-heading {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 40px;
+  color: #000000;
+  text-shadow: 2px 2px white;
+}
+
+.ava-exp {
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  font-weight: bolder;
+  padding: 20px;
+  opacity: 0.70;
+}
+
+.ava-heading .fa-sync {
+  color: #5a6c21;
+  text-shadow: 2px 2px white;
+  font-size: 35px;
+}
+
+.btn-primary {
+  color: white !important;
+  background-color: #8DA242 !important;
+  border-color: #f1ea9d !important;
+  font-weight: bold !important;
+}
+
+.btn-primary:hover {
+  color: white !important;
+  background-color: #A7BC5B !important; 
+  border-color: black !important;
+}
+
+.contact {
+  background-color: #5a6c21 !important;
+  color: white !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  margin-top: 70px;
+  text-align: center;
+  padding-right: 60px;
+}
+
+.footer {
+  background-color: #666666;
+  color: black;
+  font-size: 14px;
+}
+
+.w3-padding-10 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.mySlides {
+  width: 775px;
+  height: 500px;
+}
+
+.vol-text {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.vol-text-1 {
+  margin-top: 30px;
+}
+
+.col-dog {
+  margin-bottom: 100px;
+  margin-left: 100px;
+
+}
+
+.col-col-dog{
+  background-image: url('C:\Users\harin\Downloads\DostunuBul-master\DostunuBul-master\img');
+}
+
+.col-cat {
+  height: 400px;
+  width: 400px;
+  margin-right: 100px;
+}
+
+.col-text-btn {
+  margin-top: 120px;
+  margin-right: 220px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+
+}
+
+.col-text-btn-2 {
+  margin-left: 120px;
+  margin-bottom: 50px;
+  margin-top: 80px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  
+
+}
+
+.row-pets {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.row-pets-exp {
+  font-size: 15px;
+}
+
+.ctkr-img {
+  width: 760px;
+  height: 500px;
+  margin-right: 20px;
+}
+
+.donate-margin {
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.ct-text {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
+.btn {
+  background-color: #8DA242;
+  border: none;
+  color: white;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(255, 255, 255);
+  color: white;
+}
+
+.id-search {
+  border: 3px solid #698b05;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Average', serif;
+  background-color: #2d2d2da7;
+}
